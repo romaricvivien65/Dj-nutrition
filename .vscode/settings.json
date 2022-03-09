@@ -1,0 +1,8 @@
+{
+  "python.autoComplete.extraPaths": [
+    "D:\\projects\\projects40\\nutrition"
+  ],
+  "python.analysis.extraPaths": [
+    "D:\\projects\\projects40\\nutrition"
+  ],
+}

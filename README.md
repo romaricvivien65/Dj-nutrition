@@ -5,5 +5,5 @@ Master  database design and queries.
 - les relations ForeignKey(Many to one), ManyToMany et OneToOne,
 - également l'API d’accès à la base de données.
 
-### Etude de cas
+## Etude de cas
 Classification des aliments en catégories.
